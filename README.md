@@ -26,6 +26,7 @@ The Tableau workbook used to develop the visualizations and business insights ca
 
 #### Data Structure & Initial Checks
 The analysis was conducted using retail transaction and customer demographic datasets containing information on purchases, customer segments, product details, and sales performance.
+
 <img width="276" height="270" alt="image" src="https://github.com/user-attachments/assets/96d8518d-3739-4600-add8-5bfe0fd613f5" />      <img width="350" height="126" alt="image" src="https://github.com/user-attachments/assets/a2a865dc-668e-4e58-9a70-b89f5de1804c" />
 
 Prior to analysis, data quality checks and preprocessing were performed, including handling missing values, identifying outliers, extracting brands and pack sizes from product names, and validating customer segment classifications.
