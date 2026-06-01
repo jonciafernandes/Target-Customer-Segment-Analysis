@@ -20,13 +20,13 @@ The objective of this analysis is to identify the most valuable customer segment
 
 An interactive Tableau dashboard showcasing customer segmentation, purchasing behaviour, brand preferences, and pack-size analysis can be viewed [here](https://public.tableau.com/app/profile/flavia.fernandes1772/viz/Book1_17802625700650/TargetCustomerSegemntDashboard).
 
-The Python Jupyter Notebook used for data cleaning, preprocessing, exploratory data analysis (EDA), and customer segment investigation can be found here.
+The Python Jupyter Notebook used for data cleaning, preprocessing, exploratory data analysis (EDA), and customer segment investigation can be found [here](https://github.com/jonciafernandes/Target-Customer-Segment-Analysis/blob/main/Customer%20Segment%20Analysis.ipynb).
 
-The Tableau workbook used to develop the visualizations and business insights can be found here.
+The Tableau workbook used to develop the visualizations and business insights can be found [here](https://github.com/jonciafernandes/Target-Customer-Segment-Analysis/blob/main/Target%20Customer%20Segment%20Analysis.twbx).
 
 #### Data Structure & Initial Checks
 The analysis was conducted using retail transaction and customer demographic datasets containing information on purchases, customer segments, product details, and sales performance.
-
+<img width="276" height="270" alt="image" src="https://github.com/user-attachments/assets/96d8518d-3739-4600-add8-5bfe0fd613f5" />      <img width="350" height="126" alt="image" src="https://github.com/user-attachments/assets/a2a865dc-668e-4e58-9a70-b89f5de1804c" />
 
 Prior to analysis, data quality checks and preprocessing were performed, including handling missing values, identifying outliers, extracting brands and pack sizes from product names, and validating customer segment classifications.
 Python (Pandas) was used for data cleaning and exploratory analysis, while Tableau was used to develop interactive dashboards and visualize customer purchasing behaviour.
@@ -36,6 +36,7 @@ Python (Pandas) was used for data cleaning and exploratory analysis, while Table
 The analysis identified Budget Older Families, Mainstream Young Singles/Couples, and Retirees as the most valuable customer segments. Budget Older Families generated the highest sales, units sold, and transaction frequency, while Mainstream Young Singles/Couples represented the largest customer base.
 Kettle, Doritos, Smiths, and Pringles emerged as the leading brands driving sales, with 175g packs being the most popular pack size across customers. These findings suggest that marketing and promotional efforts should focus on high-value customer segments while prioritizing top-performing brands and pack sizes.
 Below is an overview of the Tableau dashboard used throughout the analysis.
+<img width="993" height="797" alt="image" src="https://github.com/user-attachments/assets/ffea58e9-d3b0-4540-bec0-c6815bae683f" />
 
 #### Deep Dive into Insights
 
