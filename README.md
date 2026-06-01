@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 
 The objective of this analysis is to identify the most valuable customer segments, understand the factors driving their purchasing decisions, and provide data-driven recommendations for targeted marketing, product assortment, and growth opportunities.
 
-An interactive Tableau dashboard showcasing customer segmentation, purchasing behaviour, brand preferences, and pack-size analysis can be viewed [here]([url](https://public.tableau.com/app/profile/flavia.fernandes1772/viz/Book1_17802625700650/TargetCustomerSegemntDashboard)).
+An interactive Tableau dashboard showcasing customer segmentation, purchasing behaviour, brand preferences, and pack-size analysis can be viewed [here](https://public.tableau.com/app/profile/flavia.fernandes1772/viz/Book1_17802625700650/TargetCustomerSegemntDashboard).
 
 The Python Jupyter Notebook used for data cleaning, preprocessing, exploratory data analysis (EDA), and customer segment investigation can be found here.
 
